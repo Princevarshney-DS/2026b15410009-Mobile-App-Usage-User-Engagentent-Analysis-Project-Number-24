@@ -1,0 +1,85 @@
+ Libraries & Technologies Used
+
+ 1. Python
+Python is the main programming language used to develop this project. It is used for data cleaning, data analysis, calculations, and generating useful insights from mobile app usage data.
+
+ 2. Pandas
+Pandas is used for data manipulation and analysis. It helps in loading CSV files, handling missing values, removing duplicate records, filtering data, grouping users, and analyzing mobile app usage.
+
+ 3. NumPy
+NumPy is used for numerical calculations and statistical analysis. It helps calculate the mean, median, standard deviation, and identify unusual session durations.
+
+ 4. Matplotlib
+Matplotlib is a Python library used for data visualization. It can be used to create charts and graphs to represent app usage patterns and analysis results.
+
+ 5. CSV (Comma-Separated Values)
+CSV is used as the dataset file format for storing and accessing mobile app usage records, including session duration, app features, device information, ratings, and user details.
+
+ 6. Visual Studio Code (VS Code)
+VS Code is used as the development environment for writing, executing, testing, and managing the Python project files.
+
+7. Git & GitHub
+Git is used for version control and tracking project changes. GitHub is used to store, manage, and share the project source code and output files online.
+
+## Project Overview
+
+Mobile App Usage & User Engagement Analysis is a Python-based data analysis project that focuses on understanding how users interact with mobile applications. It analyzes session duration, app features, user ratings, device types, age groups, and usage patterns to gain meaningful insights into user behavior.
+
+## Project Objectives
+
+- Analyze mobile application usage patterns.
+- Identify the most frequently used application features.
+- Calculate average user session duration.
+- Compare usage across different devices.
+- Analyze user engagement levels.
+- Identify peak usage hours and busiest weekdays.
+- Evaluate user ratings for application features.
+- Generate data-driven recommendations
+
+## Features
+
+- Dataset loading and inspection
+- Data cleaning and preprocessing
+- Missing value handling
+- Duplicate record detection
+- Session duration analysis
+- Device-wise comparison
+- Age group analysis
+- Feature popularity analysis
+- Rating analysis
+- Peak usage identification
+- Engagement classification
+- Outlier detection
+- Automated recommendations
+
+## Python Concepts Used
+
+- Variables and Data Types
+- Lists and Tuples
+- Sets
+- Conditional Statements
+- Loops
+- Functions
+- Classes and Objects
+- Data Handling
+- Exception Handling
+- Statistical Operations
+
+## Methodology
+
+1. Load the dataset using Pandas.
+2. Inspect the dataset structure and columns.
+3. Identify missing values and duplicate records.
+4. Clean and preprocess the data.
+5. Extract date, month, weekday, and hour information.
+6. Calculate session statistics using NumPy.
+7. Analyze features, devices, age groups, and ratings.
+8. Identify peak usage periods.
+9. Calculate engagement levels and detect outliers.
+10. Generate recommendations based on the analysis.
+
+## Conclusion
+
+This project demonstrates the use of Python for mobile application usage and user engagement analysis. By using Pandas and NumPy, the dataset is processed and analyzed to identify user behavior, feature popularity, session duration, device preferences, ratings, and engagement patterns.
+
+The analysis helps transform raw data into meaningful insights that can support better understanding of mobile app usage and improve the overall user experience.
