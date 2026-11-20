@@ -1,0 +1,21 @@
+Session_ID,User_ID,Session_Date,Session_Duration_Mins,User_Rating,App_Feature,Device_Type,Age_Group,Month,Weekday,Hour,Engagement_Level
+S001,U001,2026-11-18 08:15:00,12.0,4.5,Chat,Android,18-25,11,Wednesday,8,Medium
+S002,U002,2026-11-18 09:20:00,18.0,4.0,Video,iOS,26-35,11,Wednesday,9,Medium
+S003,U001,2026-11-18 12:05:00,7.0,4.2,Search,Android,18-25,11,Wednesday,12,Low
+S004,U003,2026-11-18 14:30:00,25.0,3.8,Shopping,Android,36-45,11,Wednesday,14,Medium
+S005,U004,2026-11-18 18:45:00,33.0,4.7,Video,iOS,18-25,11,Wednesday,18,High
+S006,U002,2026-11-19 07:55:00,9.0,3.9,Chat,iOS,26-35,11,Thursday,7,Low
+S007,U005,2026-11-19 10:10:00,15.0,4.1,Music,Android,18-25,11,Thursday,10,Medium
+S008,U003,2026-11-19 11:25:00,42.0,4.8,Shopping,Android,36-45,11,Thursday,11,High
+S009,U006,2026-11-19 13:40:00,6.0,3.5,Search,iOS,46-55,11,Thursday,13,Low
+S010,U001,2026-11-19 16:15:00,20.0,4.3,Video,Android,18-25,11,Thursday,16,Medium
+S011,U007,2026-11-19 17:35:00,11.0,4.6,Chat,Android,26-35,11,Thursday,17,Medium
+S012,U004,2026-11-19 19:00:00,27.0,4.2,Music,iOS,36-45,11,Thursday,19,High
+S013,U005,2026-11-19 20:20:00,14.0,3.7,Search,Android,18-25,11,Thursday,20,Medium
+S014,U006,2026-11-19 21:50:00,38.0,4.9,Video,iOS,46-55,11,Thursday,21,High
+S015,U007,2026-11-20 08:40:00,10.0,4.0,Shopping,Android,26-35,11,Friday,8,Medium
+S016,U008,2026-11-20 10:05:00,16.0,4.1,Chat,iOS,18-25,11,Friday,10,Medium
+S017,U008,2026-11-20 12:30:00,8.0,3.6,Music,Android,18-25,11,Friday,12,Low
+S018,U009,2026-11-20 15:15:00,21.0,4.4,Search,iOS,26-35,11,Friday,15,Medium
+S019,U010,2026-11-20 18:10:00,30.0,4.8,Shopping,Android,36-45,11,Friday,18,High
+S020,U010,2026-11-20 22:00:00,5.0,3.2,Chat,Android,36-45,11,Friday,22,Low
